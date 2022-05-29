@@ -1,4 +1,22 @@
-# strbagus
+## 👋 Hi, I’m Satrio Bagus
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Laravel
+✨✨
+
+### Social Media
++ [Instagram](https://instagram.com/baguswptro).
++ [Facebook](https://facebook.com/bagoes.wibowoputro).
+
+## About This Project
+
+### Tech Stack
+- Vue 2
+
+### Added Dependencies
+- Tailwindcss 3
+- Vue-Router 3.5.1
+
+<!-- # About This Repo
 
 ## Project setup
 ```
@@ -20,5 +38,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configuration
+ -->
