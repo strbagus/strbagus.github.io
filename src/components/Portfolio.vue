@@ -3,9 +3,10 @@
     <div class="drop-shadow-md px-6 py-8 bg-white rounded-lg my-10">
       <h1 class="text-3xl font-bold">Project</h1>
 
-      <div class="flex justify-center my-5">
+      <div class="lg:flex justify-center my-5">
         <div
           class="
+            lg:w-1/2
             max-w-md
             px-8
             py-4
@@ -58,6 +59,7 @@
         </div>
         <div
           class="
+            lg:w-1/2
             max-w-md
             px-8
             py-4
