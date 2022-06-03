@@ -1,6 +1,6 @@
 <template>
-  <footer
-    class="flex flex-col items-center justify-between px-6 py-2 bg-blue-600"
+  <div
+    class="flex flex-col items-center justify-between px-6 py-8 bg-gradient-to-r from-sky-500 to-indigo-500"
   >
     <div class="flex flex-col text-white py-10">
       <p>
@@ -10,7 +10,8 @@
             data-mdb-ripple="true"
             data-mdb-ripple-color="light"
             class="
-              mx-5
+              lg:mx-5
+              mx-1
               inline-block
               px-6
               py-2.5
@@ -28,8 +29,11 @@
               transition
               duration-150
               ease-in-out
+              hover:bg-gradient-to-r
+              bg-gray-800
+              hover:from-gray-800
+              hover:to-gray-900
             "
-            style="background-color: #333"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -49,7 +53,8 @@
             data-mdb-ripple="true"
             data-mdb-ripple-color="light"
             class="
-              mx-5
+              lg:mx-5
+              mx-1
               inline-block
               px-6
               py-2.5
@@ -67,8 +72,11 @@
               transition
               duration-150
               ease-in-out
+              hover:bg-gradient-to-r
+              bg-blue-600
+              hover:from-blue-600
+              hover:to-blue-700
             "
-            style="background-color: #1877f2"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -88,7 +96,8 @@
             data-mdb-ripple="true"
             data-mdb-ripple-color="light"
             class="
-              mx-5
+              lg:mx-5
+              mx-1
               inline-block
               px-6
               py-2.5
@@ -106,8 +115,12 @@
               transition
               duration-150
               ease-in-out
+              bg-gradient-to-r
+              to-indigo-500
+              from-pink-500
+              hover:from-pink-500
+              hover:to-indigo-600
             "
-            style="background-color: #c13584"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -128,7 +141,8 @@
             data-mdb-ripple="true"
             data-mdb-ripple-color="light"
             class="
-              mx-5
+              lg:mx-5
+              mx-1
               inline-block
               px-6
               py-2.5
@@ -146,8 +160,11 @@
               transition
               duration-150
               ease-in-out
+              hover:bg-gradient-to-r
+              bg-cyan-600
+              hover:from-cyan-600
+              hover:to-cyan-700
             "
-            style="background-color: #0088cc"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -162,9 +179,11 @@
           </button>
         </a>
       </p>
-      <p>satrio.baguswbw@gmail.com</p>
+      <a href="mailto:satrio.baguswbw@gmail.com">
+        satrio.baguswbw@gmail.com
+      </a>
     </div>
-  </footer>
+  </div>
 </template>
 
 <script>

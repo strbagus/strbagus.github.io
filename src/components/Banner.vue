@@ -5,7 +5,7 @@
                 Hello, i'am 
             </div>
             <span class="name text-7xl text-yellow-500">Satrio Bagus</span>
-            <div class="text-xl">Junior Web Developer</div>
+            <div class="text-xl">Fullstack Web Developer</div>
         </div>
     </div>
 </template>
