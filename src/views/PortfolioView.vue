@@ -9,17 +9,23 @@
           <span class="mx-1">Back</span>
       </button>
     </a>
-    
-    <h1>This is an portfolio page</h1>
-    <h1>[ONPROGRESS]&nbsp; <a href="#/" class="text-blue-500">Kembali</a></h1>
+    <PortFolio/>
   </div>
 </template>
 <script>
 import NavTop from "@/components/NavTop.vue";
+import PortFolio from "@/components/Portfolio.vue";
 export default {
   name: "PortfolioView",
-  componentz: {
+  components: {
     NavTop,
+    PortFolio,
   },
 };
 </script>
+<style>
+  .portfolio{
+    height: 100vh;
+  }
+</style>
+<style>

@@ -16,7 +16,7 @@
           <h2 class="text-3xl font-bold text-gray-800 mt-24">Who I am</h2>
 
           <p class="mt-4 text-gray-500 text-justify mx-2">
-            Hi I am bagus, Software Engineering student at SMKN 1 Bantul,
+            Hi I am bagus, i was a Software Engineering student at SMKN 1 Bantul,
             Yogyakarta, Indonesia. I interested in Web Development, i can do
             both Frontend and Backend but prefer the Backend one because i can't
             Design Content for Frontend.
