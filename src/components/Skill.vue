@@ -95,14 +95,14 @@
   </div>
 </template>
 <script>
-import {IconCss} from '@/components/icons/IconCss.vue';
-import {IconVue} from '@/components/icons/IconVue.vue';
-import {IconLaravel} from '@/components/icons/IconLaravel.vue';
-import {IconPhp} from '@/components/icons/IconPhp.vue';
-import {IconMysql} from '@/components/icons/IconMysql.vue';
-import {IconHtml} from '@/components/icons/IconHtml.vue';
-import {IconJavascript} from '@/components/icons/IconJavascript.vue';
-import {IconTailwind} from '@/components/icons/IconTailwind.vue';
+import IconCss from '@/components/icons/IconCss.vue';
+import IconVue from '@/components/icons/IconVue.vue';
+import IconLaravel from '@/components/icons/IconLaravel.vue';
+import IconPhp from '@/components/icons/IconPhp.vue';
+import IconMysql from '@/components/icons/IconMysql.vue';
+import IconHtml from '@/components/icons/IconHtml.vue';
+import IconJavascript from '@/components/icons/IconJavascript.vue';
+import IconTailwind from '@/components/icons/IconTailwind.vue';
 export default {
   name: "MySkill",
   components: {
