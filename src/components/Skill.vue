@@ -105,5 +105,15 @@ import {IconJavascript} from '@/components/icons/IconJavascript.vue';
 import {IconTailwind} from '@/components/icons/IconTailwind.vue';
 export default {
   name: "MySkill",
+  components: {
+    IconCss,
+    IconVue,
+    IconLaravel,
+    IconPhp,
+    IconMysql,
+    IconHtml,
+    IconJavascript,
+    IconTailwind,
+  },
 };
 </script>
