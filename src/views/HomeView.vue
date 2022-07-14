@@ -41,7 +41,11 @@ import ContactMe from "@/components/Contact.vue";
   background-color: rgb(237, 244, 247);
 }
 .content-inside{
+  position: absolute;
   top: 50%;
-  transform: translateY(0,-50%);
+  transform: translateY(-50%);
+}
+h1{
+  color: rgb(25, 25, 25);
 }
 </style>
