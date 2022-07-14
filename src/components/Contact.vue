@@ -179,7 +179,7 @@
           </button>
         </a>
       </p>
-      <a href="mailto:satrio.baguswbw@gmail.com">
+      <a href="mailto:satrio.baguswbw@gmail.com" class="text-center">
         satrio.baguswbw@gmail.com
       </a>
     </div>

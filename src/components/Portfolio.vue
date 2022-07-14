@@ -3,10 +3,10 @@
     <div class="container text-justify mx-auto">
       <div class="lg:w-1/3 p-3 lg:p-10">
         <p>
-          Hi! My name is Satrio Bagus Wibowoputro. I am graduated from Vocation High School in Yogyakarta, Indonesia with a major in Software Engineering. Now i'm interested in Web Development.
+          Hi! My name is Satrio Bagus Wibowoputro. I am graduated from Vocational High School in Yogyakarta, Indonesia with a major in Software Engineering. Now i'm interested in Web Development.
         </p>
         <p class="mt-5">
-          I Builded Single Page Web Application with Powerfull BackEnd, and can communicate with Rest API.
+          I Build Single Page Web Application. I make decouple apps between Backend and Frontend that communicate with Rest API. 
         </p>
         <div class="mt-10">
           <a href="mailto:satrio.baguswbw@gmail.com">satrio.baguswbw@gmail.com</a>
@@ -19,6 +19,61 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="w-5 h-5"><!--! Font Awesome Pro 6.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
 
           </a>
+          <a href="https://gitlab.com/strbagus" target="_blank" class="mx-1">
+            <svg
+              xmlns:svg="http://www.w3.org/2000/svg"
+              xmlns="http://www.w3.org/2000/svg"
+              xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+              xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+              width="20px"
+              height="20px"
+              viewBox="0 0 1000 963.197"
+              version="1.1"
+              id="svg85">
+              <sodipodi:namedview
+                id="namedview87"
+                pagecolor="#ffffff"
+                bordercolor="#666666"
+                borderopacity="1.0"
+                inkscape:pageshadow="2"
+                inkscape:pageopacity="0.0"
+                inkscape:pagecheckerboard="0"
+                showgrid="false"
+                inkscape:zoom="1"
+                inkscape:cx="991.5"
+                inkscape:cy="964.5"
+                inkscape:window-width="1126"
+                inkscape:window-height="895"
+                inkscape:window-x="774"
+                inkscape:window-y="12"
+                inkscape:window-maximized="0"
+                inkscape:current-layer="svg85" />
+              <defs
+                id="defs74">
+              </defs>
+              <g
+                id="LOGO"
+                transform="matrix(5.2068817,0,0,5.2068817,-489.30756,-507.76085)">
+                <path
+                  class="cls-1"
+                  d="m 282.83,170.73 -0.27,-0.69 -26.14,-68.22 a 6.81,6.81 0 0 0 -2.69,-3.24 7,7 0 0 0 -8,0.43 7,7 0 0 0 -2.32,3.52 l -17.65,54 h -71.47 l -17.65,-54 a 6.86,6.86 0 0 0 -2.32,-3.53 7,7 0 0 0 -8,-0.43 6.87,6.87 0 0 0 -2.69,3.24 L 97.44,170 l -0.26,0.69 a 48.54,48.54 0 0 0 16.1,56.1 l 0.09,0.07 0.24,0.17 39.82,29.82 19.7,14.91 12,9.06 a 8.07,8.07 0 0 0 9.76,0 l 12,-9.06 19.7,-14.91 40.06,-30 0.1,-0.08 a 48.56,48.56 0 0 0 16.08,-56.04 z"
+                  id="path76" />
+                <path
+                  class="cls-2"
+                  d="m 282.83,170.73 -0.27,-0.69 a 88.3,88.3 0 0 0 -35.15,15.8 L 190,229.25 c 19.55,14.79 36.57,27.64 36.57,27.64 l 40.06,-30 0.1,-0.08 a 48.56,48.56 0 0 0 16.1,-56.08 z"
+                  id="path78" />
+                <path
+                  class="cls-3"
+                  d="m 153.43,256.89 19.7,14.91 12,9.06 a 8.07,8.07 0 0 0 9.76,0 l 12,-9.06 19.7,-14.91 c 0,0 -17.04,-12.89 -36.59,-27.64 -19.55,14.75 -36.57,27.64 -36.57,27.64 z"
+                  id="path80" />
+                <path
+                  class="cls-2"
+                  d="M 132.58,185.84 A 88.19,88.19 0 0 0 97.44,170 l -0.26,0.69 a 48.54,48.54 0 0 0 16.1,56.1 l 0.09,0.07 0.24,0.17 39.82,29.82 c 0,0 17,-12.85 36.57,-27.64 z"
+                  id="path82" />
+              </g>
+            </svg>
+
+          </a>
         </div>
       </div>
     </div>
@@ -29,9 +84,10 @@ export default {
   name: "PortFolio",
 };
 </script>
-<style>
+<style scoped>
   .pf-header{
     top: 50%;
     transform: translateY(-50%);
+    color: rgb(25, 25, 25);
   }
 </style>

@@ -6,7 +6,7 @@
         <IconHtml />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>HTML</span>
+            <span>&nbsp;HTML</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 90%"></div>
@@ -17,7 +17,7 @@
         <IconCss />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>CSS</span>
+            <span>&nbsp;CSS</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 80%"></div>
@@ -28,7 +28,7 @@
         <IconJavascript />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>Javascript</span>
+            <span>&nbsp;Javascript</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 65%"></div>
@@ -39,7 +39,7 @@
         <IconMysql />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>MySQL</span>
+            <span>&nbsp;MySQL</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 70%"></div>
@@ -50,7 +50,7 @@
         <IconPhp />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>PHP</span>
+            <span>&nbsp;PHP</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 75%"></div>
@@ -61,7 +61,7 @@
         <IconTailwind />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>Tailwindcss</span>
+            <span>&nbsp;Tailwindcss</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 75%"></div>
@@ -72,7 +72,7 @@
         <IconLaravel />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>Laravel</span>
+            <span>&nbsp;Laravel</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 40%"></div>
@@ -84,7 +84,7 @@
         <IconVue />
         <div class="flex flex-col my-3" style="width: 100%">
           <div class="flex justify-between">
-            <span>Vue.js</span>
+            <span>&nbsp;Vue.js</span>
           </div>
           <div class="w-full bg-gray-200 rounded-full ml-1 h-5 text-right shadow-lg ">
             <div class="bg-gradient-to-r rounded-full from-yellow-500 to-orange-600 h-5" style="width: 45%"></div>
@@ -117,3 +117,8 @@ export default {
   },
 };
 </script>
+<style scoped>
+span{
+  color: #333;
+}
+</style>
