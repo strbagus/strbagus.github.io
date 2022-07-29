@@ -28,6 +28,7 @@ export default {
             { cat: "Backend", name: "Laravel", pic: "/laravel.svg" },
             { cat: "Backend", name: "MYSQL", pic: "/mysql.svg" },
             { cat: "Package Manager", name: "NPM", pic: "/npm.svg" },
+            { cat: "Package Manager", name: "Composer", pic: "/composer.svg" },
             { cat: "Tools", name: "Git", pic: "/git.svg" },
             { cat: "Tools", name: "Gitlab", pic: "/gitlab.svg" },
             { cat: "Tools", name: "Github", pic: "/github.svg" },
