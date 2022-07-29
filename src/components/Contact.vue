@@ -32,7 +32,7 @@
               ${contact.style}
             `"
           >
-            <img :src="`src/assets/icons/${contact.pic}`" :alt="contact.name" class="w-6 h-6">
+            <img :src="contact.pic" :alt="contact.name" class="w-6 h-6">
           </button>
         </a>
       </div>
@@ -48,10 +48,10 @@ export default {
   name: "ContactMe",
   data: () => ({
     contacts: [
-      { name: "github", href: "https://github.com/strbagus", pic: "github-white.svg", style: "hover:bg-gradient-to-r bg-gray-800 hover:from-gray-800 hover:to-gray-900" },
-      { name: "gitlab", href: "https://gitlab.com/strbagus", pic: "gitlab-white.svg", style: "hover:bg-gradient-to-r bg-orange-500 hover:from-orange-500 hover:to-orange-600" },
-      { name: "instagram", href: "https://instagram.com/baguswptro", pic: "instagram.svg", style: "hover:bg-gradient-to-r bg-gradient-to-r from-pink-500 to-indigo-500 hover:from-pink-500 hover:to-indigo-600" },
-      { name: "telegram", href: "https://t.me/strbagus", pic: "telegram.svg", style: "hover:bg-gradient-to-r bg-cyan-600 hover:from-cyan-600 hover:to-cyan-700" },
+      { name: "github", href: "https://github.com/strbagus", pic: "/github-white.svg", style: "hover:bg-gradient-to-r bg-gray-800 hover:from-gray-800 hover:to-gray-900" },
+      { name: "gitlab", href: "https://gitlab.com/strbagus", pic: "/gitlab-white.svg", style: "hover:bg-gradient-to-r bg-orange-500 hover:from-orange-500 hover:to-orange-600" },
+      { name: "instagram", href: "https://instagram.com/baguswptro", pic: "/instagram.svg", style: "hover:bg-gradient-to-r bg-gradient-to-r from-pink-500 to-indigo-500 hover:from-pink-500 hover:to-indigo-600" },
+      { name: "telegram", href: "https://t.me/strbagus", pic: "/telegram.svg", style: "hover:bg-gradient-to-r bg-cyan-600 hover:from-cyan-600 hover:to-cyan-700" },
     ],
   }),
 };
