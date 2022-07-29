@@ -2,7 +2,7 @@
   <div
     class="flex flex-col items-center justify-between px-6 py-8 bg-gradient-to-r from-sky-500 to-indigo-500"
   >
-    <div class="flex flex-column text-white py-10">
+    <div class="flex flex-row text-white py-10">
       <div v-for="contact in contacts" :key="contact.name">
         <a :href="contact.href" target="_blank">
           <button
@@ -37,7 +37,7 @@
         </a>
       </div>
     </div>
-    <a href="mailto:satrio.baguswbw@gmail.com" class="text-white text-center">
+    <a href="http://mailto:satrio.baguswbw@gmail.com" target="_blank" class="text-white text-center">
       satrio.baguswbw@gmail.com
     </a>
   </div>
