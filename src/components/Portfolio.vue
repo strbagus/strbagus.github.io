@@ -9,7 +9,7 @@
           I Build Single Page Web Application. I make decouple apps between Backend and Frontend that communicate with Rest API. 
         </p>
         <div class="mt-10">
-          <a href="mailto:satrio.baguswbw@gmail.com">satrio.baguswbw@gmail.com</a>
+          <a href="https://mailto:satrio.baguswbw@gmail.com" target="_blank">satrio.baguswbw@gmail.com</a>
         </div>
         <div class="flex">
           <a href="https://github.com/strbagus" target="_blank" class="mx-1">
